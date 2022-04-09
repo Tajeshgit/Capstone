@@ -2,7 +2,7 @@ Jinja2==2.11.2
 Flask==1.1.2
 aioflask
 nltk==3.5
-numpy==1.19.2
+numpy==1.21.4
 pandas>=0.19
 gunicorn==20.1.0
 scikit-learn==1.0.2
